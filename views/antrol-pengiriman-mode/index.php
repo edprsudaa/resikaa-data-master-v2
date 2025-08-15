@@ -4,7 +4,7 @@ use yii\widgets\Pjax;
 
 /** @var $model \app\models\emr\pendaftaran\AntrolPengirimanMode */
 
-$this->title = 'Mode Pengiriman Antrol';
+$this->title = 'Mode Pengiriman Antrols';
 $this->params['breadcrumbs'][] = $this->title;
 
 // Ambil nama user dari ID
